@@ -1,5 +1,6 @@
-# Programming-and-Data-Analysis-with-R
-Programming and Data Analysis with R
+ # Covid-19
+#Programming-and-Data-Analysis-with-R
+
 
 
 ![AS2018555_12_Page_2](https://user-images.githubusercontent.com/91172509/152993649-a11cee14-47c4-4e88-8b86-a2a3e89369dc.jpeg)
